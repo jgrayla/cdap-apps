@@ -23,3 +23,11 @@ out/
 twitter4j.properties
 # Intermediary output by java classifier.
 localized.txt
+
+# Eclipse Files
+.settings/
+.classpath
+.project
+
+# Temporary Files
+*~
